@@ -1,0 +1,74 @@
+body {
+    background-color: rgba(255, 217, 0, 0.856);
+}
+
+.total {
+   margin-left: 140px;
+   margin-top: 100px;
+}
+
+
+.line1 a:hover{
+
+    text-decoration: line-through yellow;
+
+
+}
+
+.line1 a{
+ 
+    color: rgb(175, 79, 0);
+    align-content: center;
+    margin-right: 20px;
+    font-size: 110px;
+}
+
+
+
+.line2 a:hover{
+
+    text-decoration: line-through yellow;
+
+
+}
+
+.line2 a{
+ margin-right: 20px;
+    color: rgb(175, 79, 0);
+    font-size: 110px;
+}
+
+
+.sep-bar p{
+
+    color:white;
+}
+
+.Social-Media a{
+
+margin: 2px;
+padding: 2px;
+
+}
+
+
+.worktitle h4{
+    margin-left: 450px;
+    margin-top: 5px;
+}
+
+
+.gif {
+
+    margin-top: 50px;
+    
+    
+}
+
+.gif2 {
+
+    margin-top: 50px;
+    
+    
+}
+
